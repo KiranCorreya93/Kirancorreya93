@@ -1,4 +1,4 @@
-Hi, I'm Kiran Correya
+#### Hi, I'm Kiran Correya
 
 🎓 **MSc Data Analytics Graduate**  
 💼 **Aspiring Data Analyst | SQL | Power BI | Python | Data Storytelling**  
@@ -29,21 +29,20 @@ I believe in the power of data to drive better business decisions, and I am cont
 
 ## 📊 Featured Projects
 
-### [UK Data Job Insights 2025](https://github.com/yourusername/UK-Data-Job-Insights-2025)
+### [UK Data Job Insights 2025](https://github.com/KiranCorreya93/UK-Data-Job-Insights-2025)
 > A real-time analytics dashboard decoding 6,000+ UK job listings, identifying **in-demand skills**, **salary trends**, and **career opportunities**. Built using Power BI, Python, and advanced data processing.
 
-### [Sentiment-Analysis-Of-Pizza-Express-Reviews]([https://github.com/yourusername/SQL-Portfolio](https://github.com/KiranCorreya93/Sentiment-Analysis-Of-Pizza-Express-Reviews.git))
+### [Sentiment Analysis Of Pizza Express Reviews](https://github.com/KiranCorreya93/Sentiment-Analysis-Of-Pizza-Express-Reviews)
 > Sentiment analysis of customer reviews for Pizza Express Islington branch, using NLP techniques to gain insights and improve customer experience.
 
-
-### [Hospital-Emergency-Room-Analysis-Dashboard]([https://github.com/yourusername/PowerBI-Dashboards](https://github.com/KiranCorreya93/Hospital-Emergency-Power-Bi-Dashboard.git)
+### [Hospital Emergency Room Analysis Dashboard](https://github.com/KiranCorreya93/Hospital-Emergency-Power-Bi-Dashboard)
 > Power BI dashboard analyzing hospital emergency room performance, including patient wait times, admissions, and referral trends.
 
 ---
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [https://www.linkedin.com/in/your-linkedin-id](www.linkedin.com/in/kiran-correya-a48578129)
+- **LinkedIn:** [https://www.linkedin.com/in/kiran-correya-a48578129](https://www.linkedin.com/in/kiran-correya-a48578129)
 - **Email:** kirancorreyaft@gmail.com
 
 
