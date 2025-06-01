@@ -8,12 +8,9 @@
 
 ## 🚀 About Me
 
-I am a results-driven **Data Analyst** with a strong foundation in **problem solving, business operations, and analytics**.  
-My passion for data was ignited during my tenure at **Amazon**, where I optimized workflow management using **SQL** and **Python-based clustering tools**, delivering measurable business outcomes.
+“I’m a results-driven Data Analyst with 7 years of corporate experience in problem-solving, business operations, and data analytics. My passion for data was sparked during my tenure at Amazon, where I leveraged SQL and Python-based tools to optimise processes and deliver measurable business outcomes.
 
-Building on this foundation, I pursued an **MSc in Data Analytics**, applying my skills to real-world problems such as an in-depth analysis of the **UK Data Job Market (2025)**, utilizing **Python** and creating an interactive **Power BI dashboard**.
-
-I am driven by the belief that **data transforms decision-making** — and I constantly seek new tools, techniques, and methodologies to stay ahead in this evolving field.
+With a strong foundation in SQL, Power BI, Python, and data storytelling, I’m committed to applying data-driven insights to solve real-world business challenges. I believe in continuous learning and constantly explore new tools, techniques, and methodologies to stay ahead in this dynamic field.
 
 ---
 
