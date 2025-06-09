@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kiran Correya</h1>
 
 <p align="center">
-🎓 MSc Data Analytics Graduate &nbsp;|&nbsp; 💼 Aspiring Data Analyst &nbsp;|&nbsp; 🌍 Based in the UK, Open to Global Opportunities
+🎓 MSc Data Analytics Graduate &nbsp;|&nbsp; 💼 Data-Driven Problem Solver &nbsp;|&nbsp; 🌍 Based in the UK, Open to Global Opportunities
 </p>
 
 ---
