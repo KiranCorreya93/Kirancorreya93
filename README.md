@@ -26,7 +26,7 @@ With a strong foundation in SQL, Power BI, Python, and data storytelling, I’m 
 
 ## 📊 Featured Projects
 
-### 🌟 [UK Data Job Insights 2025](https://github.com/KiranCorreya93/UK-Data-Job-Insights-2025)
+### 🌟 [UK Data Job Insights 2025](https://github.com/KiranCorreya93/UK-Data-Job-Market-Analysis-2025.git)
 > Real-time analytics dashboard built from **6,000+ UK job listings**, highlighting **in-demand skills**, **salary trends**, and **career pathways**. Tools: **Python**, **Power BI**, **Data Wrangling**.
 
 ### 🌟 [Sentiment Analysis Of Pizza Express Reviews](https://github.com/KiranCorreya93/Sentiment-Analysis-Of-Pizza-Express-Reviews)
